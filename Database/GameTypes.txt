@@ -1,0 +1,8 @@
+Card game
+Dice game
+Pencil and paper game
+Strategy game
+Board game
+Spinner game
+Tile-based game
+Jigsaw
